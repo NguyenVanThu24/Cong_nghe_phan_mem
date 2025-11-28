@@ -9,5 +9,3 @@ Bài tiểu luận môn: Công nghệ phần mềm
 
 Link video thuyết trình:
 https://youtu.be/ZjaqN-mNs7o
-
-Link video demo:
